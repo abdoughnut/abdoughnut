@@ -14,7 +14,7 @@
 <a href="https://twitter.com/adoughbeau">
   <img align="left" alt="Abdo's Twitter" width="24px" src="https://raw.githubusercontent.com/adoughbeau/adoughbeau/cba1ccbbb01535db3f364cfb68b70ed6222348d8/Icons/circle_twitter_icon.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abdodaoud/">
-  <img align="left" alt="Abdo's LinkedIn" width="24px" src="https://raw.githubusercontent.com/adoughbeau/adoughbeau/cba1ccbbb01535db3f364cfb68b70ed6222348d8/Icons/circle_linkedin_icon.svg" />
+<!-- <a href="https://www.linkedin.com/in/abdodaoud/">
+  <img align="left" alt="Abdo's LinkedIn" width="24px" src="https://raw.githubusercontent.com/adoughbeau/adoughbeau/cba1ccbbb01535db3f364cfb68b70ed6222348d8/Icons/circle_linkedin_icon.svg" /> -->
 </a>
-| &nbsp;&nbsp;&nbsp; 🔑 PGP Key: <a href="https://raw.githubusercontent.com/adoughbeau/adoughbeau/main/Keys/818A-C5A3-5F1B-A293.asc">818A C5A3 5F1B A293</a>
+| &nbsp;&nbsp;&nbsp; Website : <a href="https://abdodaoud.com/">abdodaoud.com</a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 🔑 PGP Key: <a href="https://raw.githubusercontent.com/adoughbeau/adoughbeau/main/Keys/818A-C5A3-5F1B-A293.asc">818A C5A3 5F1B A293</a>
