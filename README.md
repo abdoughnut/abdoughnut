@@ -1,4 +1,4 @@
-<h3>Hey, I'm  Abdo!&nbsp;<img src="https://raw.githubusercontent.com/adoughbeau/adoughbeau/main/GIFs/Hi.gif" width="24px"></h3>
+### 👋 Hey, I'm  Abdo!
 
 #### I'm an Engineering Manager & Mobile Lead working in Toronto 🇨🇦 
 
