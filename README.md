@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm  Abdo!
 
-#### I'm a Mobile Lead/Manager based in 🇨🇦 
+#### I'm an Engineering Leader based in 🇨🇦 
 
 #### Self-driven and meticulously loves to obsess over software architecture, process, and building products in the mobile space. A life learner, mentor, and always looking to tackle the next big challenge or complex problem.
 ---
