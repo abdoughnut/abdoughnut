@@ -1,5 +1,4 @@
-### 👋 Hey, I'm  Abdo!
-### 👋 Hey, I'm Abdo!
+<h2><img src="https://raw.githubusercontent.com/adoughbeau/adoughbeau/main/GIFs/Hi.gif" width="24px">&nbsp;Hey, I'm  Abdo!</h2>
 
 #### I'm an Engineering Leader based in 🇨🇦
 
@@ -8,10 +7,10 @@
 ---
 
 - 😄 Pronouns: He/Him
-- 💻 I'm currently at **Loblaw Digital**
+<!-- - 💻 I'm currently at **Loblaw Digital** -->
 - 👾 Writing bugs over at **[Codeberg](https://codeberg.org/abdoughnut)**
-- 🌱 Deep diving into **[Kotlin Multiplatform Mobile](https://kotlinlang.org/lp/mobile/)**, **[Jetpack Compose](https://developer.android.com/jetpack/compose)**, & **[SwiftUI](https://developer.apple.com/xcode/swiftui/)**
-- 💬 Ping me about: **mobile development**, **clean code**, **management**, **leadership**
+- 🌱 Deep diving into **[SwiftUI](https://developer.apple.com/xcode/swiftui/)** and a bit of **[Kotlin Multiplatform Mobile](https://kotlinlang.org/lp/mobile/)**,
+- 💬 Ping me about: **mobile development**, **productivity**, **management**, **leadership**
 
 ---
 
