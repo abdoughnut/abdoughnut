@@ -1,8 +1,10 @@
 ### 👋 Hey, I'm  Abdo!
+### 👋 Hey, I'm Abdo!
 
-#### I'm an Engineering Leader based in 🇨🇦 
+#### I'm an Engineering Leader based in 🇨🇦
 
 #### Self-driven and meticulously loves to obsess over software architecture, process, and building great products with great people in the mobile space—a life learner, leader, and mentor. I’m always looking to tackle the next big challenge or complex problem.
+
 ---
 
 - 😄 Pronouns: He/Him
@@ -12,6 +14,7 @@
 - 💬 Ping me about: **mobile development**, **clean code**, **management**, **leadership**
 
 ---
+
 <a href="https://hachyderm.io/@abdo">
   <img align="left" alt="Abdo's Mastodon" width="24px" src="https://raw.githubusercontent.com/abdoughnut/abdoughnut/main/Icons/circle_mastodon_icon.svg" />
 </a>
