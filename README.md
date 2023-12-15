@@ -22,4 +22,4 @@
 <a href="https://www.linkedin.com/in/abdoughnut/">
   <img align="left" alt="Abdo's LinkedIn" width="24px" src="https://raw.githubusercontent.com/abdoughnut/abdoughnut/main/Icons/circle_linkedin_icon.svg" />
 </a>
-| &nbsp;&nbsp;&nbsp; Website : <a href="https://abdodaoud.com/">abdodaoud.com</a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 🔑 PGP Key: <a href="https://raw.githubusercontent.com/abdoughnut/abdoughnut/main/Keys/818A-C5A3-5F1B-A293.asc">818A C5A3 5F1B A293</a>
+| &nbsp;&nbsp;&nbsp; Website : <a href="https://abdo.wtf/">abdo.wtf</a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 🔑 PGP Key: <a href="https://raw.githubusercontent.com/abdoughnut/abdoughnut/main/Keys/818A-C5A3-5F1B-A293.asc">818A C5A3 5F1B A293</a>
